@@ -6,6 +6,7 @@
 
 #cajadatos
 {
+	position: absolute;
 	padding: 20px;
 	border: 1px solid #FF0000;
 }
